@@ -1,4 +1,4 @@
-Nesse programa criado em python foi utilizado diversas bibliotecas, sendo elas:
+Nesse programa é possivel verificar diversos graficos e até criar projeções para os proximos arremessos com IA, criado em python foi utilizado diversas bibliotecas, sendo elas:
 -Pandas
 -Seaborn
 -Flask 
